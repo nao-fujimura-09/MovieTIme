@@ -14,7 +14,14 @@
 おうち時間の映画鑑賞前やその後に
 
 ## 設計書
-https://docs.google.com/spreadsheets/d/1SUA1XmAHvkRFiwZsorlPMkNr8OsVn4hyUWR8Kca1yis/edit?usp=sharing
+### ER図
+https://drive.google.com/file/d/1QGpNfXctaPxJD78c35zayao4-G-1Ohww/view?usp=sharing
+
+### ワイヤーフレーム（ユーザー）
+https://drive.google.com/file/d/1bRRSvhpPmftZb4UAc3kzVlDPNMzXBSZC/view?usp=sharing
+
+### ワイヤーフレーム（管理者）
+https://drive.google.com/file/d/1wJRvOBY6ZhiYaGwcnra947QcTiA8dOcf/view?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
